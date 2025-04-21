@@ -1,4 +1,4 @@
-Substitution Cipher Decryption Program – CS285 Project
+ Substitution Cipher Decryption Program – CS285 Project
 
 Overview:
 
@@ -23,13 +23,9 @@ Prerequisites
 
 Any terminal / command prompt.
 
-Building:
-
-javac caesar_cipher\*.java
-
 Running:
 
-java main
+Run "main" class
 
 License:
 
