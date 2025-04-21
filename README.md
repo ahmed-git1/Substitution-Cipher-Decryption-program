@@ -17,7 +17,9 @@ Saves a tidy output file showing, for each paragraph, every decrypted candidate 
 Getting Started:
 
 Prerequisites
-Java 8 (or later) JDK on your PATH.
+
+**Java 8 or later** JDK on your PATH  
+*(Tested with Java 8)*
 
 Any terminal / command prompt.
 
